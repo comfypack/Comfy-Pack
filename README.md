@@ -1,1 +1,2 @@
-unzip it first or it doesnt work idfk why.
+alr it works zipped now maybe probably
+
